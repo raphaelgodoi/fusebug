@@ -1,0 +1,8 @@
+<App Background="#ffffff">
+
+	<Router ux:Name="router" />
+    <Navigator DefaultTemplate="main">
+        <MainPage ux:Template="main" router="router" />
+    </Navigator>
+
+</App>

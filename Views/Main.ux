@@ -1,0 +1,9 @@
+<Page ux:Class="MainPage" Transition="None">
+
+    <ux:Include File="Resources.ux"/>
+
+    <Router ux:Dependency="router" />
+    <Text Alignment="Center" Value="Main Page" />
+
+    <Card/>
+</Page>
